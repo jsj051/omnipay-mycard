@@ -1,5 +1,5 @@
 {
-  "name": "xxtime/omnipay-mycard",
+  "name": "jsj051/omnipay-mycard",
   "type": "library",
   "description": "MyCard gateway for Omnipay payment processing library",
   "keywords": [
@@ -11,16 +11,16 @@
     "mycard",
     "purchase"
   ],
-  "homepage": "https://github.com/xxtime/omnipay-mycard",
+  "homepage": "https://github.com/jsj051/omnipay-mycard",
   "license": "MIT",
   "authors": [
     {
-      "name": "Joe",
-      "email": "joe@xxtime.com"
+      "name": "jsj051",
+      "email": "liuxiaoqing437@gmail.com"
     },
     {
       "name": "Omnipay Contributors",
-      "homepage": "https://github.com/xxtime/omnipay-mycard/contributors"
+      "homepage": "https://github.com/jsj051/omnipay-mycard/contributors"
     }
   ],
   "autoload": {

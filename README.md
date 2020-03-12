@@ -21,7 +21,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "xxtime/omnipay-mycard": "~1.1"
+        "jsj051/omnipay-mycard": "~1.1"
     }
 }
 ```
