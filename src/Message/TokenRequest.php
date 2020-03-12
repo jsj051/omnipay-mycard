@@ -2,6 +2,7 @@
 
 namespace Omnipay\MyCard\Message;
 
+use Omnipay\MyCard\Exception\DefaultException;
 
 class TokenRequest extends AbstractRequest
 {
